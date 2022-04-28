@@ -1,2 +1,2 @@
 # Minecraft_and_JRE_structure
-附带JRE的Minecraft文件结构
+附带JRE的Minecraft个人分发包文件结构
