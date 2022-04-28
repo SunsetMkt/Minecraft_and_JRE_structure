@@ -1,0 +1,2 @@
+# Minecraft_and_JRE_structure
+附带JRE的Minecraft文件结构
