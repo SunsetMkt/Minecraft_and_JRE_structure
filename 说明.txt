@@ -1,0 +1,13 @@
+附带JRE环境的Minecraft 1.19.2 Java版 Fabulously Optimized整合包
+整合包：Fabulously+Optimized-4.2.0-beta.3 https://www.curseforge.com/minecraft/modpacks/fabulously-optimized
+光影：ComplementaryShaders_v4.5.1 https://www.curseforge.com/minecraft/customization/complementary-shaders
+JRE采用jdk-17.0.4+8 https://adoptium.net/en-GB/marketplace/
+整合包打包者：https://www.lwd-temp.top/
+
+启动脚本说明：
+常规用户请使用“运行客户端.bat”
+启动适合客户端的Paper服务器请使用“运行服务器.bat”
+“使用独显运行附带的JRE可执行.bat”顾名思义，请不要随意运行。
+“放置HMCL依赖.bat”用于处理离线状态下HMCL的依赖问题。
+
+警告：以任何方式散布Minecraft修改版客户端和服务器端的行为原则上均违反EULA。

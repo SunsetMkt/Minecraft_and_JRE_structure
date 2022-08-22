@@ -1,3 +1,7 @@
+@rem
+@rem Copyright (C) lwd-temp.top All Rights Reserved.
+@rem
+
 @echo off
-start .\jdk-17.0.1\bin\javaw.exe -jar .\HMCL.jar
+start .\jre\bin\javaw.exe -jar .\HMCL.jar
 exit
